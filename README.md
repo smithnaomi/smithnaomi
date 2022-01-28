@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 - ✖️ ~~Can make you a cake~~
 - ✖️ ~~Can lend you money~~
 
-    
+<!--     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dk-raw&show_icons=true&theme=darkhub&bg_color=171b22&text_color=CCCCCC&hide_border=true&include_all_commits=true&count_private=true)](https://dkatsios.ml "Damian's top languages") -->
 ![Naomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=smithnaomi&theme=panda&show_icons=true)
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smithnaomi&layout=compact)](https://github.com/smithnaomi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smithnaomi&layout=compact_theme=panda&show_icons=true)](https://github.com/smithnaomi/github-readme-stats)
 ### 🔗 📫 How to reach me
 
 + [Email](mailto:smithnaomi488@gmail.com)
