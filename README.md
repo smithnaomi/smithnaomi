@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 - ✔️ Loves to Travel
 - ✖️ ~~Can fix your phone~~
 - ✖️ ~~Can make you a cake~~
-- ✖️ ~~Can lend you money~~
+- ✖️ ~~Can train your dog~~
 ### 🔗 📫 How to reach me
 
 + [Email](mailto:smithnaomi488@gmail.com)
