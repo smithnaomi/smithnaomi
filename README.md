@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 [LinkedIn](https://www.linkedin.com/in/smithnaomi488)
 [Twitter](https://twitter.com/thenewCoder) -->
  
-[![Linkedin: Naomi Smith](https://img.shields.io/badge/-naomismith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smithnaomi488/)](https://www.linkedin.com/in/smithnaomi488/)
+[![Linkedin: Naomi Smith](https://img.shields.io/badge/-Naomi Smith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smithnaomi488/)](https://www.linkedin.com/in/smithnaomi488/)
 
  [![Twitter:Naomi SMith](https://img.shields.io/twitter/follow/thenewCoder?style=social)](https://twitter.com/thenewCoder)
 
