@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     text_color: "FF75B5",
     bg_color: "31353a", -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smithnaomi&show_icons=true&theme=pandahub&bg_color=31353a&text_color=FF75B5&hide_border=true&include_all_commits=true&count_private=true)](https://smithnaomi.ml "Naomi's top languages")
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smithnaomi&show_icons=true&theme=panda&bg_color=31353a&text_color=FF75B5&title_color=19f9d899&icon_color=19f9d899&hide_border=true&include_all_commits=true&count_private=true)](https://smithnaomi.ml "Naomi's top languages")
 [![Naomi's ReadMe Card](https://github-readme-stats.vercel.app/api?username=smithnaomi&show_icons=true&theme=pandahub&bg_color=31353a&text_color=FF75B5&hide_border=true&include_all_commits=true&count_private=true)](https://smithnaomi.ml "Naomi's Contributions")
    
 <!-- ![Naomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=smithnaomi&theme=panda&show_icons=true)
