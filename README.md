@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 
 
 
-- ⚡ Fun fact: ...
-#### ⚡ More facts
+
+
+
+#### ⚡ Fun facts
 - ✔️ Can code
 - ✔️ Have a [Portfolio]()
 - ✔️ Can roller skate
@@ -25,4 +25,9 @@ Here are some ideas to get you started:
 - ✖️ ~~Can make you a cake~~
 - ✖️ ~~Can lend you money~~
 
+### 🔗 📫 How to reach me
+
++ [Email](mailto:smithnaomi488@gmail.com)
++ [LinkedIn](https://www.linkedin.com/in/smithnaomi488)
++ [Twitter](https://twitter.com/thenewCoder)
 
