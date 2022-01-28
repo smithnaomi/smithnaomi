@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - ✖️ ~~Can make you a cake~~
 - ✖️ ~~Can train your dog~~
 ### 🔗 📫 How to reach me
-<p> I'm excited to hear from you<p>
+<p> I'm excited to hear from you🙋🏾‍♀️<p>
 <!--  [Email](mailto:smithnaomi488@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/smithnaomi488)
 [Twitter](https://twitter.com/thenewCoder) -->
