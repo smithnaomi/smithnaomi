@@ -42,7 +42,7 @@ Here are some ideas to get you started:
     
 [![Naomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=smithnaomi)](https://github.com/anuraghazra/github-readme-stats)
    
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=panda&show_icons=true)
+   ![Naomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=smithnaomi&theme=panda&show_icons=true)
 ### 🔗 📫 How to reach me
 
 + [Email](mailto:smithnaomi488@gmail.com)
