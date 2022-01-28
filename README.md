@@ -3,7 +3,15 @@
 <p> Welcome to my respository.<p>
 
  ## Introductions
-  <p> Good day my name is Naomi Smith. I am a recent graduate from UNC Chapel Hill, Full Stack Developer bootcamp. I am currently building my portfolio with a variety of applications. 
+ ```javascript
+const Naomi Smith = {
+  title: Full Stack Developer,
+  code: [Javascript, HTML, CSS,],
+  tools: [React, Redux, Node],
+  current project: React Portfolio
+}
+```
+<!--   <p> Good day my name is Naomi Smith. I am a recent graduate from UNC Chapel Hill, Full Stack Developer bootcamp. I am currently building my portfolio with a variety of applications. 
 
 Here are some ideas to get you started:
 
@@ -11,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ... -->
 
    
 ## 👩🏾‍💻 Tech Stack
@@ -51,13 +59,8 @@ Here are some ideas to get you started:
 ### 🔗 📫 How to reach me
 
 + [Email](mailto:smithnaomi488@gmail.com)
-+ [LinkedIn](https://www.linkedin.com/in/smithnaomi488)
-+ [Twitter](https://twitter.com/thenewCoder)
+<!-- + [LinkedIn](https://www.linkedin.com/in/smithnaomi488)
++ [Twitter](https://twitter.com/thenewCoder) -->
+[![Twitter:Naomi Smith](https://img.shields.io/twitter/follow/NaomiSmith?style=social)](https://twitter.com/thenewCoder)
+[![Linkedin: Naomi Smith](https://img.shields.io/badge/-NaomiSmith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smithnaomi488)]
 
-```javascript
-const Naomi Smith = {
-  pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS,],
-  tools: [React, Redux, Node],
-}
-```
