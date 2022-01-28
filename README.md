@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 
+   
 ## 👩🏾‍💻 Tech Stack
  ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 - Javascript
@@ -53,3 +54,10 @@ Here are some ideas to get you started:
 + [LinkedIn](https://www.linkedin.com/in/smithnaomi488)
 + [Twitter](https://twitter.com/thenewCoder)
 
+```javascript
+const Naomi Smith = {
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS,],
+  tools: [React, Redux, Node],
+}
+```
