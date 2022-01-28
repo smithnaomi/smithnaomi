@@ -1,6 +1,6 @@
 
-### Hi there👋🏾
-<p> *Welcome* to my respository. 
+### You've Arrived 👋🏾
+<p> *Welcome* to my respository.<p>
 
 
 
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 #### ⚡ Fun facts
 - ✔️ Can code
 - ✔️ Have a [Portfolio]()
-- ✔️ Can roller skate
+- ✔️ Loves to Travel
 - ✖️ ~~Can fix your phone~~
 - ✖️ ~~Can make you a cake~~
 - ✖️ ~~Can lend you money~~
