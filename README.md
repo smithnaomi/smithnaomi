@@ -1,17 +1,9 @@
 ### Hi there 👋
 
-<!--
+
 **smithnaomi/smithnaomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-#### More facts
-
-- ✔️ Can code
-- ✔️ Have a [Portfolio]()
-- ✔️ Can roller skate
-- ✖️ ~~Can fix your phone~~
-- ✖️ ~~Can make you a cake~~
-- ✖️ ~~Can lend you money~~
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my React portfolio ...
@@ -22,4 +14,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+#### More facts
+
+
+- ✔️ Can code
+- ✔️ Have a [Portfolio]()
+- ✔️ Can roller skate
+- ✖️ ~~Can fix your phone~~
+- ✖️ ~~Can make you a cake~~
+- ✖️ ~~Can lend you money~~
+
+
