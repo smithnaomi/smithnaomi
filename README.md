@@ -7,7 +7,7 @@
 const Naomi Smith = {
   role: Full Stack Developer,
   code: [Javascript, HTML, CSS,],
-  tools: [React, Node, VS code],
+  tools: [React, Node, MongoDB],
   current project: React Portfolio,
 
 }
