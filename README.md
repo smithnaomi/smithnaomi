@@ -28,9 +28,6 @@ Here are some ideas to get you started:
 - React
 
 
-
-
-
 #### ⚡ Fun facts
 - ✔️ Can code
 - ✔️ Have a [Portfolio]()
@@ -40,9 +37,9 @@ Here are some ideas to get you started:
 - ✖️ ~~Can lend you money~~
 
     
-[![Naomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=smithnaomi)](https://github.com/anuraghazra/github-readme-stats)
+![Naomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=smithnaomi&theme=panda&show_icons=true)
    
-   ![Naomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=smithnaomi&theme=panda&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smithnaomi&layout=compact)](https://github.com/smithnaomi/github-readme-stats)
 ### 🔗 📫 How to reach me
 
 + [Email](mailto:smithnaomi488@gmail.com)
