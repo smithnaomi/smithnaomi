@@ -1,14 +1,9 @@
+
 ### Hi there 👋
+<p> *Welcome* to my respository. 
 
-<h1 align="center">Hello👋 I'm Naomi Smith</h1>
-**smithnaomi/smithnaomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div width="150" align='right'>
-  <img src ="752E93AD-CFF2-48FA-A26C-0194BF75CC9E.jpeg" />
-  
-</div>
 
- <br/>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my React portfolio ...
