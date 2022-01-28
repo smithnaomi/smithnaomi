@@ -54,10 +54,11 @@ Here are some ideas to get you started:
 <!--  [Email](mailto:smithnaomi488@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/smithnaomi488)
 [Twitter](https://twitter.com/thenewCoder) -->
- [![Linkedin Badge](https://img.shields.io/badge/-smithnaomi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smithnaomi488/)](https://www.linkedin.com/in/smithnaomi488)
+ 
+[![Linkedin: Naomi Smith](https://img.shields.io/badge/-naomismith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/smithnaomi488/)](https://www.linkedin.com/in/smithnaomi488/)
 
  [![Twitter:Naomi SMith](https://img.shields.io/twitter/follow/thenewCoder?style=social)](https://twitter.com/thenewCoder)
 
 
-[![Gmail Badge](https://img.shields.io/badge/-smithnaomi488@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smithnaomi488@gmail.com)](mailto:mail@jayraj.co.in)
+[![Gmail Badge](https://img.shields.io/badge/-smithnaomi488@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smithnaomi488@gmail.com)](mailto:smithnaomi488@gmail.com)
 
