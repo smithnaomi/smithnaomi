@@ -1,8 +1,8 @@
 
-### You've Arrived 👋🏾
+## You've Arrived 👋🏾
 <p> Welcome to my respository.<p>
 
- ## Introductions
+ ### Introductions
  ```javascript
 const Naomi Smith = {
   role: Full Stack Developer,
