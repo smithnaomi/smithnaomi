@@ -8,10 +8,9 @@ const Naomi Smith = {
   role: Full Stack Developer,
   front end: [Javascript,HTML,CSS,React,Bootstrap],
   backend:[Node]
-  database:[MySQL, NoSQL, MonogoDB],
-  tools: [Heroku, Insomnia, VS code, Git],
+  database:[MySQL,NoSQL,MonogoDB],
+  tools: [Heroku,Insomnia,VS code,Git],
   current project: React Portfolio,
-
 }
 ```
 <!--   <p> Good day my name is Naomi Smith. I am a recent graduate from UNC Chapel Hill, Full Stack Developer bootcamp. I am currently building my portfolio with a variety of applications. 
