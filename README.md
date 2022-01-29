@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  
 #### ⚡ Fun facts
 - ✔️ Can code
-- ✔️ Have a [Portfolio]()
+- ✔️ Have a [Portfolio](https://smithnaomi.github.io/Portfolio/)
 - ✔️ Loves to Travel
 - ✖️ ~~Can fix your phone~~
 - ✖️ ~~Can make you a cake~~
