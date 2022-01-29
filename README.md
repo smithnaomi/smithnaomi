@@ -7,7 +7,7 @@
 const Naomi Smith = {
   role: Full Stack Developer,
   front end: [Javascript,HTML,CSS,React,Bootstrap],
-  backend:[Node],
+  backend:[Node, Express],
   database:[MySQL,NoSQL,MonogoDB],
   tools: [Heroku,Insomnia,VScode,Git],
   current project: React Portfolio,
